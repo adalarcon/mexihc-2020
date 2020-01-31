@@ -1,0 +1,19 @@
+.landing-page .header-filter:after {
+    background: rgba(0, 0, 0, 0.70);
+}
+
+.blog-post .section-text p {
+    font-size: 1.188rem;
+    line-height: 1.5em;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+.thumbnail {
+    height: 200px;
+}
+
+.call-page .page-header {
+    height: 30vh;
+}
+
