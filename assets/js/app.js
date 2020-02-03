@@ -4,10 +4,10 @@ var menu = new Vue({
     menu:[
       {name:"Home", url:"index.html"},
       {name:"Calls", url:"#", children:[
-       { name:"Call for Participation", url:"call-participation.html"},
+       { name:"Call for Papers", url:"call-for-papers.html"},
       ]},
-      {name:"Commitees", url:"commitees.html"},
-      {name:"Speackers", url:"index.html"},
+      {name:"Committees", url:"committees.html"},
+      {name:"Speakers", url:"index.html"},
       {name:"Program", url:"index.html"},
       {name:"Registration", url:"index.html"},
       {name:"Venue", url:"venue.html"},
@@ -30,6 +30,4 @@ var menu = new Vue({
       </li>
     </ul>`
   })
-
-
 
