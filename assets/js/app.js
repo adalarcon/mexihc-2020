@@ -6,6 +6,7 @@ var menu = new Vue({
       {name:"Calls", url:"#", children:[
        { name:"Call for Papers", url:"call-for-papers.html"},
        { name:"Student Design Competition", url:"student-design-competition.html"},
+       { name:"Graduate Colloquium", url:"graduate-colloquium.html"},
       ]},
       {name:"Committees", url:"committees.html"},
       {name:"Speakers", url:"index.html"},
