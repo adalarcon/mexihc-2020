@@ -7,6 +7,8 @@ var menu = new Vue({
        { name:"Call for Papers", url:"call-for-papers.html"},
        { name:"Student Design Competition", url:"student-design-competition.html"},
        { name:"Graduate Colloquium", url:"graduate-colloquium.html"},
+       { name:"Workshops and Tutorials", url:"workshops.html"},
+       { name:"Posters Track", url:"call-for-posters.html"},
       ]},
       {name:"Committees", url:"committees.html"},
       {name:"Speakers", url:"index.html"},
